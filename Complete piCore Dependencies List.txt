@@ -1,0 +1,16 @@
+# Copy to onboot.lst & get non-provided packages via `tce-load -wi xxx.tcz`
+gfortran.tcz
+python3.8.tcz
+openblas.tcz
+scipy.tcz
+numpy.tcz
+clutter.tcz
+TC.tcz
+qt-5.x-base.tcz
+PyQt5.tcz
+py3.8serial.tcz
+usb-serial-5.4.51-piCore-v7l+.tcz
+modbus-tk.tcz
+simple-pid.tcz
+touchscreen-5.4.51-piCore-v7l.tcz
+python3.8-rpi-gpio.tcz

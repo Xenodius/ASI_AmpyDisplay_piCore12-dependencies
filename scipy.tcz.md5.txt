@@ -1,0 +1,1 @@
+a683802eabc2769b30bb03aced1d2494  scipy.tcz
